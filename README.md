@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Alemayehu 👋
+# Full-Stack Developer (Java | Web | Mobile)
 
-<!--
-**ayehu1alem/ayehu1alem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help clients:
+✔ Fix website bugs fast
+✔ Build simple responsive websites
+✔ Create Java & MySQL applications
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Java, JavaScript, Dart
+- HTML, CSS, React
+- MySQL, Firebase
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 1. EECSSA Website
+Live: https://www.eecsa.org/
+
+✔ Responsive design  
+✔ Clean UI  
+✔ Real client project  
+
+---
+
+### 2. E-Learning System
+GitHub: (your link)
+
+✔ Login & authentication  
+✔ Course management  
+✔ Database integration  
+
+---
+
+## 📩 Contact Me
+- LinkedIn: https://www.linkedin.com/in/ayehu1alem/
