@@ -17,6 +17,7 @@ I help clients:
 ### 1. EECSSA Website
 Live: https://www.eecsa.org/
 
+✔ Implemented a bilingual interface (English/Amharic)
 ✔ Responsive design  
 ✔ Clean UI  
 ✔ Real client project  
