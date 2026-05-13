@@ -7,14 +7,15 @@ I help clients:
 ✔ Create Java & MySQL applications
 
 ## 🔧 Skills
-- Java, JavaScript, Dart
+- Flutter, Dart, Java,Spring Boot, JavaScript, Dart
 - HTML, CSS, React
-- MySQL, Firebase
-- Flutter
+- MySQL, PHP 
+- Firebase 
+- Figma
 
 ## 🚀 Projects
 
-### 1. EECSSA Website
+### 1. EECSA Website
 Live: https://www.eecsa.org/
 
 ✔ Implemented a bilingual interface (English/Amharic)
@@ -24,8 +25,17 @@ Live: https://www.eecsa.org/
 
 ---
 
-### 2. E-Learning System
-GitHub: (your link)
+### 2. Renaissance Construction Enterprise Website
+Live: https://renaissanceconet.com/
+
+✔ Responsive design  
+✔ Clean UI  
+✔ Real client project  
+
+---
+
+### 3. E-Learning System
+GitHub: 
 
 ✔ Login & authentication  
 ✔ Course management  
