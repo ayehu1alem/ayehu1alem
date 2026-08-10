@@ -1,5 +1,5 @@
 ## Hi, I'm Alemayehu 👋
-# Full-Stack Developer (Java | Web | Mobile)
+# Full-Stack Developer (Flutter | Web | Mobile)
 
 I help clients:
 ✔ Fix website bugs fast
